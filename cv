@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CV - Christelle Mabika</title>
+  <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <!-- En-tête avec photo -->
+    <header>
+      <!-- Photo -->
+      <div class="photo-container">
+        <img src="./img/Photo christelle.jpg" alt="Photo Christelle Mabika" />
+        <h2>Christelle MABIKA</h2>
+      </div>
+      
+      <div class="header-content">
+        <!-- Titre du CV -->
+        <div class="title">
+          <h1>Expert Finance & Data • Spécialiste IA & Contrôle de Gestion</h1>
+          <p class="subtitle">Triple MBA : IA, Big Data & Audit – DSCG en cours</p>
+          <p>Experience en cabinet d'expertise comptable & audit - Anglais opérationnel</p>
+          <p>Autonome, rigoureuse, polyvalente, analytique, innovante</p>
+          <p><strong>Disponible pour une alternance dès octobre 2025</strong></p>
+        </div>
+      </div>
+      
+      <!-- Logo MBA ESG -->
+      <div class="logo">
+        <span class="orange">MBA</span><span class="black">ESG</span>
+      </div>
+    </header>
+    
+    <!-- Contenu principal avec deux colonnes -->
+    <div class="main-content">
+      <!-- Colonne de gauche -->
+      <div class="left-column">
+        <!-- CONTACTS -->
+        <section class="contacts">
+          <h2><i class='bx bxs-contact'></i> Contacts</h2>
+          <div class="contacts-horizontal">
+            <p><i class='bx bx-envelope'></i> <a href="mailto:christell.mabika@gmail.com">christell.mabika@gmail.com</a></p>
+            <p><i class='bx bx-phone'></i> <a href="tel:+33620769424">+33 6 20 76 94 24</a></p>
+            <!-- <p><i class='bx bx-globe'></i> <a href="https://www.cm-datalab.com" target="_blank" rel="noopener noreferrer">www.cm-datalab.com</a></p> -->
+            <p><i class='bx bxl-github'></i> <a href="https://github.com/christellemabika" target="_blank" rel="noopener noreferrer">github.com/christellemabika</a></p>
+            <p><i class='bx bxl-linkedin-square'></i> <a href="https://linkedin.com/in/christellemabika" target="_blank" rel="noopener noreferrer">linkedin.com/in/christellemabika</a></p>
+            <p><i class='bx bx-map'></i><a href="https://maps.google.com/?q=65+rue+Maurice+Berteaux,+95870+Bezons,+France" target="_blank" rel="noopener noreferrer"></i> 65 rue Maurice Berteaux, 95870 Bezons</a></p>
+          </div>
+        </section>
+        
+        <!-- COMPÉTENCES -->
+        <section class="competences">
+          <h2><i class='bx bxs-cog'></i> Compétences</h2>
+          
+          <h3>Compétences linguistiques</h3>
+          <ul>
+            <li>Français : Langue maternelle</li>
+            <li>Anglais : Opérationnel</li>
+          </ul>
+          
+          <h3>Compétences informatiques et digitales</h3>
+          <div>
+            <span class="competence-badge">Excel avancé</span>
+            <span class="competence-badge">Power BI</span>
+            <span class="competence-badge">HTML/CSS/JS</span>
+            <span class="competence-badge">React</span>
+            <span class="competence-badge">SQL</span>
+            <span class="competence-badge">Python</span>
+            <span class="competence-badge">ML</span>
+            <span class="competence-badge">DL</span>
+            <span class="competence-badge">NLP</span>
+          </div>
+          
+          <h3>Soft skills</h3>
+          <ul>
+            <li>Esprit analytique & gestion de projet IA</li>
+            <li>Analyse et résolution de problèmes complexes</li>
+            <li>Esprit d'initiative et apprentissage continu</li>
+          </ul>
+        </section>
+        
+        <!-- PROJETS PERSONNELS -->
+        <section>
+          <h2><i class='bx bx-bulb'></i> Projets en cours</h2>
+          
+          <div class="project">
+            <p><strong>NormX IA</strong> - Solution SaaS intelligente pour l'automatisation comptable, fiscale et Paie avec l'IA.</p>
+          </div>
+          <div class="project">
+            <p><strong>EduSync</strong> - Plateforme de gestion scolaire basée sur l'intelligence artificielle et l'analyse prédictive.</p>
+          </div>
+        </section>
+        
+        <!-- FORMATIONS COMPLÉMENTAIRES & CERTIFICATIONS -->
+        <section>
+          <h2><i class='bx bx-certification'></i> Formations complémentaires</h2>
+          <ul>
+            <li><strong>Full-Stack Web Development Bootcamp</strong> – Dr. Angela Yu (Udemy)</li>
+            <li><strong>Formation Utime: Front-End</strong> – La minute De Code (Udemy)</li>
+            <li><strong>Complete Data Science, Machine Learning, DL, NLP Bootcamp</strong> – Krish Naik (Udemy)</li>
+            <li><strong>100 Days of Code – Python</strong> – Dr. Angela Yu (Udemy)</li>
+            <li><strong>SQL Expert</strong> – Sébastien Daviot (Udemy)</li>
+          </ul>
+          <p><span class="skill-badge">Autoformation continue</span> via Udemy</p>
+        </section>
+        
+        <!-- CENTRES D'INTÉRÊT -->
+        <section>
+          <h2><i class='bx bxs-heart'></i> Centres d'intérêt</h2>
+          <ul>
+            <li>Autoformation continue en technologies émergentes, Veille technologique </li>
+            <li>Engagement dans l'éducation (co-fondatrice d'une école primaire de 150 élèves)</li>
+          </ul>
+        </section>
+      </div>
+      
+      <!-- Colonne de droite -->
+      <div class="right-column">
+        <!-- FORMATION -->
+        <section class="formation">
+          <h2><i class='bx bxs-graduation'></i> Formation</h2>
+          
+          <div>
+            <p>2025 - 2026</p>
+            <div>
+              <p><strong>MBA Big Data & Intelligence Artificielle</strong></p>
+              <p><em>MBA ESG - Paris - Bac + 5 (formation classée SMBG). Groupe ESG</em></p>
+              <p><strong>Principales matières :</strong> Pilotage de projets IA & Big Data, Gouvernance Cloud (AWS, Azure), MLOps, DevOps, Data Engineering, ETL/ELT, Big Data Architecture, Business Intelligence & Dataviz (Tableau, Power BI), Web Analytics, Reporting, SQL avancé, Python pour la Data Science, Deep Learning, NLP, RGPD, IA responsable.</p>
+            </div>
+          </div>
+          
+          <div>
+            <p>2024 - 2025</p>
+            <div>
+              <p><strong>MBA Management de l'Intelligence Artificielle</strong></p>
+              <p><em>DeVinci Executive Education - Certification RNCP Niveau 7 (n°38590)</em></p>
+              <p><strong>Principales matières :</strong> Management de projets IA, IA génératives, IA frugale, Supercalculateurs, Python & Computer Vision, Hackathon, Digital Factory, IA éthique et droit, stratégie d'intégration IA.</p>
+            </div>
+          </div>
+          
+          <div>
+            <p>2024 - 2025</p>
+            <div>
+              <p><strong>MBA Expert Contrôle de Gestion & Audit</strong></p>
+              <p><em>ESG Finance via Studi - Titre RNCP Niveau 7</em></p>
+              <p><strong>Principales matières :</strong> Audit interne/externe, contrôle budgétaire, analyse financière, rentabilité,  Tableaux de bord, BSC, reporting financier, Contrôle de gestion social, stratégie RSE, gestion des risques, ROI.</p>
+            </div>
+          </div>
+          
+          <div>
+            <p>En cours</p>
+            <div class="dscg">
+              <p><strong> <i class='bx bx-certification'></i>DSCG (Diplôme Supérieur de Comptabilité et de Gestion)</strong></p>
+              <p><em>Candidat libre</em></p>
+              <p><strong>Unités d'enseignements :</strong><br>
+                <i class='bx bx-check-circle done'></i>UE4: Validée - UE2,6,7: Dispensées <br>
+                <i class='bx bx-time in-progress'></i>UE1:Prépa. - Session 2025 <br>
+                <i class='bx bx-calendar future'></i>UE3,5 : Prépa. – Session 2026</p>
+              </p>
+            </div>
+          </div>
+          
+          <div>
+            <p>2013</p>
+            <div>
+              <p><strong>Diplôme en Finance</strong></p>
+              <p><em>Université Jean Monnet</em></p>
+            </div>
+          </div>
+        </section>
+        
+        <!-- EXPÉRIENCE PROFESSIONNELLE -->
+        <section class="experience">
+          <h2><i class='bx bxs-briefcase'></i> Expérience Professionnelle</h2>
+          
+          <div>
+            <p>Février 2025 <br>3 mois<br>Stage</p>
+            <div>
+              <p><strong>AFECOM - Paris 19e</strong></p>
+              <p><em>Expertise comptable et audit</em></p>
+              <p><strong>Collaboratrice comptable expérimenté</strong></p>
+              <ul>
+                <li>Révision des comptes annuels;</li>
+                <li>Établissement des liasses fiscales</li>
+                <li>Gestion des déclarations sociales et fiscales (salaires, impôts…)</li>
+              </ul>
+            </div>
+          </div>
+          
+          <div>
+            <p>2022 - 2024 <br>2 ans</p>
+            <div>
+              <p><strong>Deloitte Touche Tohmatsu Congo</strong></p>
+              <p><em>Expertise comptable et audit</em></p>
+              <p><strong>Manager Conseil Comptable, Fiscal & Financier</strong></p>
+              <ul>
+                <li>Accompagnement stratégique et optimisation des processus financiers</li>
+                <li>Pilotage de missions pluridisciplinaires et coordination d'équipes</li>
+                <li>Audit opérationnel, comptable et financiers</li>
+              </ul>
+            </div>
+          </div>
+          
+          <div>
+            <p>2020 - 2022 <br>2 ans</p>
+            <div>
+              <p><strong>Advisory (Correspondant BDO)</strong></p>
+              <p><em>Cabinet d'audit et conseil en transformation</em></p>
+              <p><strong>Senior Conseil Comptable, Fiscal & Financier</strong></p>
+              <ul>
+                <li>Réalisation de diagnostics fiscaux pour 12 clients du secteur industriel</li>
+                <li>Missions d'audit et vérification de conformité réglementaire</li>
+                <li>Développement de solutions d'optimisation comptable et fiscale</li>
+              </ul>
+            </div>
+          </div>
+          
+          <div>
+            <p>Avant 2020<br>7 ans</p>
+            <div>
+              <p><strong>Horizons Conseils</strong></p>
+              <p><em>Expertise comptable et audit</em></p>
+              <p><strong>Superviseur Audit & Comptabilité</strong></p>
+            </div>
+          </div>
+        </section>
+      </div>
+    </div>
+  </div>
+  
+  <script>
+    // Script pour l'impression
+    document.addEventListener('DOMContentLoaded', function() {
+      // Ajout d'un bouton d'impression
+      var printButton = document.createElement('button');
+      printButton.innerHTML = '<i class="bx bx-printer"></i>';
+      printButton.onclick = function() { window.print(); };
+      printButton.className = 'print-button no-print';
+      
+      document.body.appendChild(printButton);
+    });
+  </script>
+</body>
+</html>
